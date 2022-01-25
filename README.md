@@ -33,7 +33,7 @@ THEN I exit the application, and the HTML is generated
 
 
 ## Installations
-- `npm i`
+- `npm i`: installing the npm packages
 - [Jest](https://www.npmjs.com/package/jest) for running the unit tests
 - [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
 - The application will be invoked by using the following command:
@@ -102,9 +102,6 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 
 ## GitHub repository
-- 
-
-## sample HTML file
-- 
+- https://github.com/carvasquez206/TeamProfileGenerator-OOP
 
 ## Walkthrough video
