@@ -109,9 +109,9 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 ![eamProfileGenerator-OOP_dist](https://user-images.githubusercontent.com/63617482/151459131-8253c295-dec1-4940-bee8-ee66d66b6aeb.png)
 
 
-## GitHub repository
+## GitHub Repository
 - https://github.com/carvasquez206/TeamProfileGenerator-OOP
 
-## GitHub repository
-- https://carvasquez206.github.io/TeamProfileGenerator-OOP/
+## GitHub Webpage
+- https://carvasquez206.github.io/TeamProfileGenerator-OOP/dist/index.html
 
