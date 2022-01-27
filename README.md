@@ -104,4 +104,7 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 ## GitHub repository
 - https://github.com/carvasquez206/TeamProfileGenerator-OOP
 
-## Walkthrough video
+## Screenshot
+![TeamProfileGenerator-OOP](https://user-images.githubusercontent.com/63617482/151456756-fe3ac40e-2e59-4618-8c53-11ed4bb6ec32.png)
+
+
