@@ -105,6 +105,7 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 - https://github.com/carvasquez206/TeamProfileGenerator-OOP
 
 ## Screenshot
-![TeamProfileGenerator-OOP](https://user-images.githubusercontent.com/63617482/151456756-fe3ac40e-2e59-4618-8c53-11ed4bb6ec32.png)
+![TeamProfileGenerator-OOP](https://user-images.githubusercontent.com/63617482/151457149-35479a7a-2b88-42fa-bd74-a6fbb6b96bcb.png)
+
 
 
