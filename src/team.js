@@ -93,9 +93,9 @@ return `
   <title>My Team</title>
 </head>
 <body>
-<div class="jumbotron jumbotron-fluid bg-warning">
+<div class="jumbotron jumbotron-fluid bg-info">
   <div class="container">
-    <h1 class="display-4 text-center">My Team</h1>
+    <h1 class="text-white text-center">The Office</h1>
   </div>
 </div>
 <div class="d-flex flex-row flex-wrap justify-content-center">

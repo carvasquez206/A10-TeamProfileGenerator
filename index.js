@@ -15,7 +15,7 @@ const managerQuestions = () => {
     {
         type: 'input',
         name: 'name',
-        message: 'What is the mnager\'s name?',
+        message: 'What is the manager\'s name?',
     },
     {
         type: 'input',
