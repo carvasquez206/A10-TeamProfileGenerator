@@ -100,15 +100,18 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 * `getRole()`&mdash;overridden to return `'Intern'`
 
-## Terminal Snippet
+### Terminal Snippet
 <img width="695" alt="terminal-snippet" src="https://user-images.githubusercontent.com/63617482/151459443-86464726-18f0-464d-acc9-0adab488354b.png">
 
 
-## Screenshot
+### Screenshot
 
 ![eamProfileGenerator-OOP_dist](https://user-images.githubusercontent.com/63617482/151459131-8253c295-dec1-4940-bee8-ee66d66b6aeb.png)
 
 
 ## GitHub repository
 - https://github.com/carvasquez206/TeamProfileGenerator-OOP
+
+## GitHub repository
+- https://carvasquez206.github.io/TeamProfileGenerator-OOP/
 
